@@ -15,7 +15,7 @@ with picamera.PiCamera() as camera:
 	camera.start_preview()
 	camera.start_recording("%s%s" % destination, get_file_name())
 	for x in range(1, 120, 0.5):
-		sleep(5)
+		sleep(x)
 	camera.stop_recording()
 	camera.stop_preview()
 	
