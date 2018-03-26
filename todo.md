@@ -6,3 +6,4 @@ https://www.raspberrypi.org/documentation/usage/camera/raspicam/raspivid.md
 * MP4Box -add pivideo.h264 pivideo.mp4
 * Remove the source raw file, leaving the remaining pivideo.mp4 file to play
 * rm pivideo.h264
+* https://www.raspberrypi-spy.co.uk/2014/11/how-to-create-a-raspberry-pi-video-capture-unit-part-2/
